@@ -64,11 +64,15 @@ This project focuses on gaining experience with peripherals, working with both g
 - **Chip Enable (CE) or Slave Select:** PB6 (GPIO Port B, Pin 6)
 - **Data/Command (DC) or Data/Instruction (D/I):** PA0 (GPIO Port A, Pin 0)
 - **Reset:** PA1 (GPIO Port A, Pin 1)
+<img width="363" alt="Screenshot 2025-01-23 at 2 01 34 AM" src="https://github.com/user-attachments/assets/a6827644-fc62-4fcd-bdb7-898d1a3651f6" />
+
 
 #### Part B: PCF8574 I2C I/O Expander (connected to the 16x2 Character LCD)
 - **I2C1 Interface:**
   - **SDA:** PB9 (GPIO Port B, Pin 9)
   - **SCL:** PB8 (GPIO Port B, Pin 8)
+<img width="469" alt="Screenshot 2025-01-23 at 2 01 47 AM" src="https://github.com/user-attachments/assets/50bea307-777c-4eb6-9fcf-8c172bb5ef61" />
+
 
 #### Part C: GPIO Configurations
 - **GPIO Port A:**
@@ -79,6 +83,8 @@ This project focuses on gaining experience with peripherals, working with both g
   - **Pin 9 (PB9):** I2C1_SDA (I2C1 Data)
 - **GPIO Port C:**
   - **Pin 13 (PC13):** Used as an external interrupt input (rising edge trigger)
+
+<img width="631" alt="Screenshot 2025-01-23 at 2 02 02 AM" src="https://github.com/user-attachments/assets/25153f9c-2c00-43a0-9a54-7bde130b6d45" />
 
 ---
 
