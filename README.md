@@ -33,6 +33,11 @@ This project focuses on gaining experience with peripherals, working with both g
 - Interface with a 16x2 character LCD via the PCF8574 I2C I/O expander.
 - Display text characters on the LCD.
 
+## Schematic
+
+<img width="418" alt="Screenshot 2025-01-23 at 2 11 37 AM" src="https://github.com/user-attachments/assets/070ec0ac-de56-422c-9c78-ce162591f8da" />
+
+
 ### Implementation
 #### Hardware Connections
 - **SDA:** PB9
@@ -54,8 +59,8 @@ This project focuses on gaining experience with peripherals, working with both g
 - Learn how to use the SPI and I2C communication protocols.
 - Prepare for the final project.
 
-### Schematic
-**Figure 1**: A schematic showing the connections for the final circuit of the project.
+## Schematic
+<img width="418" alt="Screenshot 2025-01-23 at 2 11 37 AM" src="https://github.com/user-attachments/assets/070ec0ac-de56-422c-9c78-ce162591f8da" />
 
 ### Specifications
 #### Part A: SPI1 Interface
