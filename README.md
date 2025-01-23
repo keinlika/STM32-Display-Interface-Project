@@ -93,10 +93,5 @@ This project focuses on gaining experience with peripherals, working with both g
 
 ---
 
-## Notes
-This project documentation was adapted from a template originally created for ECEN 260 during the Spring 2023 semester. Usage of this documentation for other semesters is not permitted and may constitute academic dishonesty.
-
----
-
 ## Conclusion
 This project provided hands-on experience with SPI and I2C communication protocols while exploring the use of both graphical and character LCDs. It also serves as a preparatory step for the final project.
