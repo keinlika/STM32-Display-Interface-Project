@@ -1,4 +1,4 @@
-# Project Title
+# Displays
 
 ## Description
 This project focuses on gaining experience with peripherals, working with both graphical LCDs (GLCD) and character LCDs, and utilizing SPI and I2C communication protocols. The project also serves as preparation for a final, more comprehensive project.
